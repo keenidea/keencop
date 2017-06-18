@@ -2,476 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f022db14-47f2-4de3-b516-05d9752febb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/css/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/image-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/image-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/image-slider-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/image-slider-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/image-slider-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/theme1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/img/xs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.31652d31b392.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.6b517d0d5813.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/changelists.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/changelists.f6dc691f8d62.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/dashboard.7ac78187c567.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/dashboard.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/fonts.494e4ec545c9.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/fonts.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.15ebfebbeb3d.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.2003a066ae02.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/login.a846c0e2ef65.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/login.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/rtl.4c867197b256.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/rtl.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/widgets.5e372b41c483.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/widgets.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/LICENSE.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Bold-webfont.2ad99072841e.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Light-webfont.b446c2399bb6.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Regular-webfont.ec39515ae8c6.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/Roboto-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/LICENSE.2c54f4e1ca1c.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/LICENSE.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/README.837277fa1908.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/README.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/calendar-icons.39b290681a8b.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/calendar-icons.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_off.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_on.0047eba25b67.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_on.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-addlink.d519b3bab011.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-addlink.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-alert.034cc7d8a67f.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-alert.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-calendar.ac7aea671bea.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-calendar.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-changelink.18d2fd706348.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-changelink.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-clock.e1d4dfac3f2b.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-clock.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-deletelink.564ef9dc3854.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-deletelink.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-no.439e821418cd.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-no.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown-alt.81536e128bb6.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown-alt.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown.a18cb4398978.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-yes.d2f9f035226a.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-yes.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/inline-delete.fec1b761f254.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/inline-delete.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/search.7cf54ff789c6.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/search.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/selector-icons.b4555096cea2.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/selector-icons.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/sorting-icons.3a097b59f104.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/sorting-icons.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-add.e59d620a9742.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-add.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-arrowright.bbfb788a849e.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-arrowright.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectBox.b49f008d186b.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectBox.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectFilter2.17009b6d4428.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectFilter2.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.32861b6cbdf9.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.min.f51f04edab28.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/DateTimeShortcuts.1536fb6bea1d.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/DateTimeShortcuts.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/RelatedObjectLookups.d2bdb1018963.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/RelatedObjectLookups.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/calendar.9ac94d055fbd.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/calendar.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/cancel.1d69cba4b4bf.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/cancel.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/change_form.9e85003a1a38.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/change_form.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.17d715df2104.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.min.dc930adb2821.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/core.fd861d43f0f5.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/core.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.eda404ee376d.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.min.d75b9ed03975.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/jquery.init.95b62fa19378.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/jquery.init.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/popup_response.6ce3197f8fc8.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/popup_response.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.ff9208865444.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate_init.0d3b53c37074.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate_init.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/timeparse.51258861a46a.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/timeparse.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/urlify.411bc3bb651c.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/urlify.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.aacc43d6f308.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.7d46203b9170.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.min.bf0c425cdb73.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.min.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/FontAwesome.0d2717cd5d85.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/FontAwesome.0d2717cd5d85.otf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/FontAwesome.otf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.674f50d287a8.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.674f50d287a8.eot.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.912ec66d7572.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.af7ae505a9ee.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.b06871f281fe.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.b06871f281fe.ttf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.eot.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.fee66e712a8a.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.ttf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.8b0fbd5f61d5.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css.62b49a0651f3.map.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css.map.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/bullet.117c0297bac6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/custom.9a7af6aa12d3.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/custom.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.448c34a56d69.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.89889688147b.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.e18bbf611f2a.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.e18bbf611f2a.ttf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.f4769f9bdb74.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.fa2772327f55.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.ttf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/1.24453a812f0a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/b.963071cc504c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/bg.f92d35ee1fdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/header.bee3f1d8f9cf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-1.2cfed438bf64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-2.5ef46062c6dc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-3.53320f043e28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-4.f397177f293f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-5.c40d9bc1a89e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/image-slider-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/theme1.e495eb9976e7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/theme1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/xs.d4b93a547300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/img/xs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/bootstrap.min.5869c96cc8f1.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/bootstrap.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.min.e071abda8fe6.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.nicescroll.c9844213bc1d.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.nicescroll.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/js-image-slider.e4e6e5953ea8.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/js-image-slider.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/thecop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/css/app.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/js/jquery.nicescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/js/js-image-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/static/index/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leadership/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ministries/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about/activities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about/beliefs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about/board.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about/theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base_site/base_site.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/leadership/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/press.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/songs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/media/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ministries/children.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ministries/evangelism.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ministries/men.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ministries/women.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ministries/youth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/welfare/clinic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/welfare/credit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/welfare/school.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.31652d31b392.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.5af66c1b1797.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.6b517d0d5813.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/changelists.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/changelists.f6dc691f8d62.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/dashboard.7ac78187c567.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/fonts.494e4ec545c9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/fonts.cc6140298ba7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.15ebfebbeb3d.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.2003a066ae02.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.77b3f8a70811.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/login.a846c0e2ef65.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/rtl.4c867197b256.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/widgets.5e372b41c483.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/widgets.a7251c097987.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/css/widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/README.2c3d0bcdede2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/fonts/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/LICENSE.2c54f4e1ca1c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/README.837277fa1908.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/calendar-icons.39b290681a8b.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/calendar-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_on.0047eba25b67.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/gis/move_vertex_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-addlink.d519b3bab011.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-addlink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-alert.034cc7d8a67f.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-alert.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-calendar.ac7aea671bea.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-changelink.18d2fd706348.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-changelink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-clock.e1d4dfac3f2b.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-clock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-deletelink.564ef9dc3854.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-deletelink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-no.439e821418cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown-alt.81536e128bb6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown.a18cb4398978.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-unknown.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-yes.d2f9f035226a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/icon-yes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/inline-delete.fec1b761f254.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/inline-delete.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/search.7cf54ff789c6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/selector-icons.b4555096cea2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/selector-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/sorting-icons.3a097b59f104.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/sorting-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-add.e59d620a9742.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-add.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-arrowright.bbfb788a849e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/img/tooltag-arrowright.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectBox.b49f008d186b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectBox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectFilter2.17009b6d4428.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/SelectFilter2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.32861b6cbdf9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.min.f51f04edab28.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/actions.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/DateTimeShortcuts.1536fb6bea1d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/DateTimeShortcuts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/RelatedObjectLookups.d2bdb1018963.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/admin/RelatedObjectLookups.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/calendar.9ac94d055fbd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/cancel.1d69cba4b4bf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/cancel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/change_form.9e85003a1a38.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/change_form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.17d715df2104.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.min.dc930adb2821.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/collapse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/core.fd861d43f0f5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.eda404ee376d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.min.d75b9ed03975.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/inlines.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/jquery.init.95b62fa19378.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/jquery.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/popup_response.6ce3197f8fc8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/popup_response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.ff9208865444.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate_init.0d3b53c37074.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/prepopulate_init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/timeparse.51258861a46a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/timeparse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/urlify.411bc3bb651c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/urlify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.aacc43d6f308.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.7d46203b9170.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.c49565486978.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.min.269550530cc1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.min.bf0c425cdb73.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.912ec66d7572.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.8b0fbd5f61d5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.a5c3501e3a29.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css.62b49a0651f3.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/app.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/custom.1101d11f45fd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/custom.9a7af6aa12d3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.89889688147b.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/bootstrap.min.5869c96cc8f1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.min.e071abda8fe6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.nicescroll.c9844213bc1d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/jquery.nicescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/js-image-slider.e4e6e5953ea8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/js-image-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/main.d41d8cd98f00.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/index/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/staticfiles/staticfiles.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thecop/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/welfare/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thecop/settings.py" afterPath="$PROJECT_DIR$/thecop/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -494,9 +25,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/thecop/wsgi.py" />
-        <option value="$PROJECT_DIR$/thecop/settings.py" />
         <option value="$PROJECT_DIR$/thecop/urls.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/thecop/settings.py" />
       </list>
     </option>
   </component>
@@ -535,6 +66,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="thecop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thecop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thecop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thecop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="thecop" />
@@ -839,14 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thecop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3025">
-          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thecop/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -871,6 +408,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thecop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
