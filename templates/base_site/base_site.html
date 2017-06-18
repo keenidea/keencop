@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{% block title %}pentecost{% endblock %}</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'index/css/app.css' %}" type="text/css">
+    <link rel="stylesheet" href="{% static 'index/css/custom.css' %}" type="text/css">
+    <link rel="stylesheet" href="{% static 'index/awesome/css/font-awesome.min.css' %}" type="text/css">
+    <script src="{% static 'index/js/jquery.min.js' %}"></script>
+    <script src="{% static 'index/js/js-image-slider.js' %}"></script>
+    <script src="{% static 'index/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'index/js/main.js' %}"></script>
+</head>
+<body>
+{% block header %}
+    <div class="container-fluid">
+        <div class="row">
+            <div class="header-img-wrapper">
+                <img class="image-responsive hidden-xs hidden-sm" src="{% static 'index/img/header.png' %}"
+                     alt="header image">
+                <img class="image-responsive hidden-xs hidden-lg hidden-md" src="{% static 'index/img/header.png' %}"
+                     alt="header image">
+                <img class="image-responsive hidden-md hidden-lg hidden-sm" src="{% static 'index/img/xs.jpg' %}"
+                     alt="header image">
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block navigation %}
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{% url 'index:index' %}">TARKWA AREA</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    {% url 'index:index' as index %}
+
+                    <li {% if request.path == index %} class="active" {% endif %} ><a href="{% url 'index:index' %}">HOME<span
+                            class="sr-only">(current)</span></a></li>
+
+                    {% url 'about:history' as history %}
+                    {% url 'about:activities' as activities %}
+                    {% url 'about:board' as board %}
+                    {% url 'about:theme' as theme %}
+                    {% url 'about:beliefs' as beliefs %}
+
+                    <li class="dropdown
+                    {% if request.path == history %} active {% endif %}
+                    {% if request.path == activities %} active {% endif %}
+                    {% if request.path == board %} active {% endif %}
+                    {% if request.path == theme %} active {% endif %}
+                    {% if request.path == beliefs %} active {% endif %}">
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">ABOUT US<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li {% if request.path == history %} class="active" {% endif %} ><a
+                                    href="{% url 'about:history' %}">BRIEF HISTORY</a></li>
+                            <li {% if request.path == activities %} class="active" {% endif %} ><a
+                                    href="{% url 'about:activities' %}">OUR ACTIVITIES</a></li>
+                            <li {% if request.path == board %} class="active" {% endif %} ><a
+                                    href="{% url 'about:board' %}">BOARDS AND COMMITTEES</a></li>
+                            <li {% if request.path == theme %} class="active" {% endif %} ><a
+                                    href="{% url 'about:theme' %}">THEME FOR THE YEAR</a></li>
+                            <li {% if request.path == beliefs %} class="active" {% endif %} ><a
+                                    href="{% url 'about:beliefs' %}">BELIEVES AND CORE VALUES</a></li>
+                        </ul>
+                    </li>
+
+                    {% url 'ministries:evangelism' as evangelism %}
+                    {% url 'ministries:men' as men %}
+                    {% url 'ministries:women' as women %}
+                    {% url 'ministries:youth' as youth %}
+                    {% url 'ministries:children' as children %}
+
+                    <li class="dropdown
+                    {% if request.path == evangelism %} active {% endif %}
+                    {% if request.path == men %} active {% endif %}
+                    {% if request.path == women %} active {% endif %}
+                    {% if request.path == youth %} active {% endif %}
+                    {% if request.path == children %} active {% endif %}">
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">MINISTRIES<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li {% if request.path == evangelism %} class="active" {% endif %} ><a
+                                    href="{% url 'ministries:evangelism' %}">EVANGELISM MINISTRY</a></li>
+                            <li {% if request.path == men %} class="active" {% endif %} ><a
+                                    href="{% url 'ministries:men' %}">MEN MINISTRY</a></li>
+                            <li {% if request.path == women %} class="active" {% endif %} ><a
+                                    href="{% url 'ministries:women' %}">WOMEN MINISTRY</a></li>
+                            <li {% if request.path == youth %} class="active" {% endif %} ><a
+                                    href="{% url 'ministries:youth' %}">YOUTH MINISTRY</a></li>
+                            <li {% if request.path == children %} class="active" {% endif %} ><a
+                                    href="{% url 'ministries:children' %}">CHILDREN MINISTRY</a></li>
+                        </ul>
+                    </li>
+
+                    {% url 'leadership:leadership' as leadership %}
+
+                    <li {% if request.path == leadership %} class="active" {% endif %} ><a
+                            href="{% url 'leadership:leadership' %}">LEADERSHIP</a></li>
+
+
+                    {% url 'media:news' as news %}
+                    {% url 'media:calendar' as calender %}
+                    {% url 'media:press' as press %}
+                    {% url 'media:songs' as songs %}
+                    {% url 'media:photo' as photo %}
+                    {% url 'media:video' as video %}
+
+                    <li class="dropdown
+                    {% if request.path == news %} active {% endif %}
+                    {% if request.path == calender %} active {% endif %}
+                    {% if request.path == press %} active {% endif %}
+                    {% if request.path == songs %} active {% endif %}
+                    {% if request.path == photo %} active {% endif %}
+                    {% if request.path == video %} active {% endif %}">
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">MEDIA<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li {% if request.path == news %} class="active" {% endif %} ><a
+                                    href="{% url 'media:news' %}">NEWS</a></li>
+                            <li {% if request.path == calender %} class="active" {% endif %} ><a
+                                    href="{% url 'media:calendar' %}">CHURCH CALENDAR</a></li>
+                            <li {% if request.path == press %} class="active" {% endif %} ><a
+                                    href="{% url 'media:press' %}">PRESS RELEASE</a></li>
+                            <li {% if request.path == songs %} class="active" {% endif %} ><a
+                                    href="{% url 'media:songs' %}">PENTECOST SONGS</a></li>
+                            <li {% if request.path == photo %} class="active" {% endif %} ><a
+                                    href="{% url 'media:photo' %}">PHOTO GALLERY</a></li>
+                            <li {% if request.path == video %} class="active" {% endif %} ><a
+                                    href="{% url 'media:video' %}">VIDEOS</a></li>
+                        </ul>
+                    </li>
+
+                    {% url 'welfare:credit' as credit %}
+                    {% url 'welfare:school' as school %}
+                    {% url 'welfare:clinic' as clinic %}
+
+                    <li class="dropdown
+                    {% if request.path == credit %} active {% endif %}
+                    {% if request.path == school %} active {% endif %}
+                    {% if request.path == clinic %} active {% endif %}">
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">SOCIAL WELFARE<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li {% if request.path == credit %} class="active" {% endif %} ><a
+                                    href="{% url 'welfare:credit' %}">CREDIT UNION</a></li>
+                            <li {% if request.path == school %} class="active" {% endif %} ><a
+                                    href="{% url 'welfare:school' %}">SCHOOL</a></li>
+                            <li {% if request.path == clinic %} class="active" {% endif %} ><a
+                                    href="{% url 'welfare:clinic' %}">CLINIC</a></li>
+                        </ul>
+                    </li>
+
+                    {% url 'contact:contact' as contact %}
+
+                    <li {% if request.path == contact %} class="active" {% endif %} ><a
+                            href="{% url 'contact:contact' %}">CONTACT US</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+{% endblock %}
+
+{% block banner %}
+
+    <div id="sliderFrame">
+        <div id="slider">
+            <img class="image-responsive" src="{% static 'index/img/image-slider-1.jpg' %}"
+                 alt="Welcome to Menucool.com"/>
+            <img class="image-responsive" src="{% static 'index/img/image-slider-2.jpg' %}" alt="one"/>
+            <img class="image-responsive" src="{% static 'index/img/image-slider-3.jpg' %}" alt="two"/>
+            <img class="image-responsive" src="{% static 'index/img/image-slider-4.jpg' %}" alt="three"/>
+            <img class="image-responsive" src="{% static 'index/img/image-slider-5.jpg' %}" alt="five"/>
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block staticbanner %}
+
+    <div class="static_banner image-responsive">
+        <div class="static_banner_blur">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>{{ heading }}</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block content %}
+
+{% endblock %}
+
+</body>
+</html>
